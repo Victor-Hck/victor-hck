@@ -10,21 +10,21 @@
 <h2 align="left">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">! My name is Victor Gomes and I'm a programming student, from Brazil</h2>
 
 <div align="center">
-    <h1 style="border:none">Front end</h1>
+    <p><strong>Front end</strong></p>
     
 
   [![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react)](https://skillicons.dev)
 
-  <h1 style="border:none">Back end</h1>
+  <p><strong>Back end</strong></p>
 
   [![My Skills](https://skillicons.dev/icons?i=python,php)](https://skillicons.dev)
 
 
-   <h1 style="border:none">Tools/Testing</h1>
+   <p><strong>Tools / Testing</strong></p>
 
    [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-   <h1 style="border:none">I am currently studying</h1>
+   <p><strong>I am currently studying</strong></p>
 
    [![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
 </div>
