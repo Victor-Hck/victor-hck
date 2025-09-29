@@ -17,7 +17,7 @@
 
   <p><strong>Back end</strong></p>
 
-  [![My Skills](https://skillicons.dev/icons?i=python,php)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,php,mysql)](https://skillicons.dev)
 
 
    <p><strong>Tools / Testing</strong></p>
