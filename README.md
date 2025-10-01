@@ -13,7 +13,7 @@
     <p><strong>Front end</strong></p>
     
 
-  [![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,tailwind)](https://skillicons.dev)
 
   <p><strong>Back end</strong></p>
 
