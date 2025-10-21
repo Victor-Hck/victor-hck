@@ -13,7 +13,7 @@
     <p><strong>Front end</strong></p>
     
 
-  [![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,next,tailwind)](https://skillicons.dev)
 
   <p><strong>Back end</strong></p>
 
@@ -26,7 +26,7 @@
 
    <p><strong>I am currently studying</strong></p>
 
-   [![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=ts,react,next)](https://skillicons.dev)
 </div>
 
 <div align="center">
