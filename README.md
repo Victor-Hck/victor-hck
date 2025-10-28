@@ -17,12 +17,15 @@
 
   <p><strong>Back end</strong></p>
 
-  [![My Skills](https://skillicons.dev/icons?i=python,php,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,php,mysql,sqlite,bash)](https://skillicons.dev)
 
 
-   <p><strong>Tools / Testing</strong></p>
+   <p><strong>Tools / Version Control</strong></p>
 
    [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+      <p><strong>Operating Systems / Environments</strong></p>
+
+   [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
    <p><strong>I am currently studying</strong></p>
 
