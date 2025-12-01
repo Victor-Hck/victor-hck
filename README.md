@@ -17,7 +17,7 @@
 
   <p><strong>Back end</strong></p>
 
-  [![My Skills](https://skillicons.dev/icons?i=python,php,mysql,sqlite,bash)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,php,mysql,sqlite,bash,cpp,nodejs)](https://skillicons.dev)
 
 
    <p><strong>Tools / Version Control</strong></p>
@@ -29,7 +29,7 @@
 
    <p><strong>I am currently studying</strong></p>
 
-   [![My Skills](https://skillicons.dev/icons?i=ts,react,next)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=ts,react,next,nodejs)](https://skillicons.dev)
 </div>
 
 <div align="center">
