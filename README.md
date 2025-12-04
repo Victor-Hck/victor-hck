@@ -22,7 +22,7 @@
 
    <p><strong>Tools / Version Control</strong></p>
 
-   [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
       <p><strong>Operating Systems / Environments</strong></p>
 
    [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
